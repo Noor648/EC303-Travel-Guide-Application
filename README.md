@@ -1,1 +1,2 @@
-# EC303-Travel-Guide-Application
+###### Mobile App Development
+###### Project Submission
